@@ -8,4 +8,4 @@ Download kaggle data set -- > kaggle competitions download -c house-prices-advan
 
 :infinity:	 This model predicts the sales price for each house. For each Id in the test set, we must predict the value of the SalePrice variable. 
 
-:heavy_check_mark: Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. (Taking logs means that errors in predicting expensive houses and cheap houses will affect the result equally.)
+:heavy_check_mark: Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. (Taking logs means that errors in predicting expensive houses and cheap houses will affect the result equally.).
